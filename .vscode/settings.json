@@ -1,7 +1,10 @@
 {
     "cSpell.words": [
+        "asgiref",
         "pycache",
         "qcsa",
+        "sqlparse",
+        "tzdata",
         "venv",
         "wxkk"
     ]
