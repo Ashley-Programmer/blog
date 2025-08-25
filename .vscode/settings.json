@@ -1,11 +1,16 @@
 {
     "cSpell.words": [
         "asgiref",
+        "dotenv",
+        "psycopg",
         "pycache",
         "qcsa",
         "sqlparse",
         "tzdata",
         "venv",
+        "Vercel",
+        "whitenoise",
+        "wsgi",
         "wxkk"
     ]
 }
